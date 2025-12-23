@@ -1,0 +1,1 @@
+cbvcvvb<?php echo $this->session->flashdata('message'); ?>"><?php echo $this->session->flashdata('message'); ?></div>   <div class="alert alert-success alert-dismissable" id="alert-success" style="color: #fff; font  size: 12px; font-weight:
